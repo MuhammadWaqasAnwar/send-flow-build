@@ -1,5 +1,5 @@
 import React from 'react';
-import './FailedModal.css'; // Make sure the path to your CSS file is correct
+import './failedmodal.css'; // Make sure the path to your CSS file is correct
 
 const FailedModal = ({ FailedMessage, onClose }) => {
   return (
